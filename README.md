@@ -1,6 +1,6 @@
 ## App Test.com
 
-This is a starter ReactJS UI for my 'Create a Serverless App' tutorial series.
+Esta é uma interface do usuário inicial ReactJS. Autenticar via cognito
 
 ## Application Info
 

@@ -8,18 +8,18 @@ Esta é uma interface do usuário inicial ReactJS. Autenticar via cognito, funç
 ![localhost_3000_admin](https://user-images.githubusercontent.com/69087075/115530401-1d7e9480-a26a-11eb-8f24-81d5f95fb72a.png)
 ## Login.
 ![localhost_3000_login](https://user-images.githubusercontent.com/69087075/115530410-1fe0ee80-a26a-11eb-9070-9acf9d007794.png)
-Produtos
+## Produtos
 ![localhost_3000_products](https://user-images.githubusercontent.com/69087075/115530418-21aab200-a26a-11eb-97dd-0b20d22cb569.png)
-registros
+## Registros
 ![localhost_3000_register](https://user-images.githubusercontent.com/69087075/115530423-22dbdf00-a26a-11eb-947f-bf872214a0a3.png)
 
-## Available Scripts
+## Roteiros.
 
-In the project directory, you can run:
+No diretório do projeto, você pode executar:
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
+Executa o App no modo de desenvolvimento. <br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>

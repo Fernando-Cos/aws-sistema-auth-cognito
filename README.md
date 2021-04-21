@@ -14,7 +14,6 @@ Esta é uma interface do usuário inicial ReactJS. Autenticar via cognito, funç
 ![localhost_3000_register](https://user-images.githubusercontent.com/69087075/115530423-22dbdf00-a26a-11eb-947f-bf872214a0a3.png)
 
 ## Roteiros.
-
 No diretório do projeto, você pode executar:
 
 ### `npm start`

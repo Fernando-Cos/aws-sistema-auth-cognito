@@ -3,7 +3,7 @@
 Esta é uma interface do usuário inicial ReactJS. Autenticar via cognito, função lambda.
 
 ## Informação de App.
-
+![localhost_3000_ (1)](https://user-images.githubusercontent.com/69087075/115529589-697d0980-a269-11eb-8bbc-030a540d7754.png)
 
 
 ## Available Scripts

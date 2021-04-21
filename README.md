@@ -1,4 +1,4 @@
-## Hexal Energy app
+## App Test.com
 
 This is a starter ReactJS UI for my 'Create a Serverless App' tutorial series.
 

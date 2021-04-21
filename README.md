@@ -1,4 +1,4 @@
-## App Test.com
+## App para teste com integração via cognito e função lambda.
 
 Esta é uma interface do usuário inicial ReactJS. Autenticar via cognito, função lambda.
 

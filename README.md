@@ -1,10 +1,10 @@
 ## App Test.com
 
-Esta é uma interface do usuário inicial ReactJS. Autenticar via cognito
+Esta é uma interface do usuário inicial ReactJS. Autenticar via cognito, função lambda.
 
-## Application Info
+## Informação de App.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
